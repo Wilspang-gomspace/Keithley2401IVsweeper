@@ -1,3 +1,4 @@
+#Rember to change scpi mode for 2461
 import matplotlib as mpl
 import visa
 import numpy as np
